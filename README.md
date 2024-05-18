@@ -10,7 +10,7 @@ With the evolving technology of computer vision and deep learning, work and safe
 
 
 ## Course Information
-This project is submitted in partial fulfillment of the requirements for the course [Advanced Machine Learning and Deep Learning] (CPE 313), offered by the [Computer Engineering Department] at [Technological Institute of the Philippines].
+This project is submitted in partial fulfillment of the requirements for the course Advanced Machine Learning and Deep Learning (CPE 313), offered by the Computer Engineering Department at Technological Institute of the Philippines.
 
 ## Submitted To
 - **Engr. Roman Richard**
