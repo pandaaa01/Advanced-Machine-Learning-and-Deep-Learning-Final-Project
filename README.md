@@ -18,6 +18,6 @@ This project is submitted in partial fulfillment of the requirements for the cou
 
 ## Links
 - **[Full Study Report](https://docs.google.com/document/d/1wNQTuP-qcIbSKychLqt7tYqd6PCE_QRH0tM-4t8yqXA/edit?usp=sharing)**
-- **[Video Demonstration](https://drive.google.com/drive/folders/1qeD7IWWq6yipKwSIaNVSnM-sPeJD-3c6?usp=sharing)**
+- **[Video Demonstration](https://drive.google.com/file/d/1KpzipKInoLXoS3b4_LfuZPmRMWMYAIL4/view?usp=sharing)**
 
 ---
