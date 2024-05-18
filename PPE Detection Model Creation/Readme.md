@@ -9,6 +9,5 @@ This folder contains the notebooks for Personal Protection Equipment to be used 
 
 ## Dataset
 - Dataset consists of 2071 images with different classes to be detected in a construction site like vest, helmet, boots, gloves, and more.
-- 
 <p align="center">
 
